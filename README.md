@@ -2,3 +2,5 @@
 https://rominarg.github.io/DemoSentimentAPI/index.html
 <img width="1920" height="1747" alt="00002_" src="https://github.com/user-attachments/assets/16f722df-429f-4990-8e38-ab188d36a16f" />
 https://rominarg.github.io/DemoSentimentAPI/report
+<img width="1771" height="258" alt="image" src="https://github.com/user-attachments/assets/0255f874-a569-4816-a612-5a8944bbccd0" />
+
