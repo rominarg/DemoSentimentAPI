@@ -52,7 +52,7 @@ Utilizamos técnicas clásicas de **Procesamiento de Lenguaje Natural (NLP)** su
 * **Integración:** Carga y ejecución del modelo predictivo para inferencia en tiempo real.
 * **Validación:** Manejo de errores y respuestas JSON estandarizadas.
 
-### 🎨 Front-End (Dashboard MVP)
+###  Front-End (Dashboard MVP)
 * **Interfaz Web:** Panel para carga masiva de datos (Batch Processing) vía CSV.
 * **Visualización:** Gráficos interactivos con **Chart.js** para distribución de sentimientos.
 * **Bootstrap 5:** Diseño responsivo y profesional.
@@ -67,14 +67,23 @@ Endpoint para clasificar un comentario individual.
 ### 2. Batch Processing (Procesamiento por Lotes)
 Capacidad de subir un archivo `.csv` con múltiples comentarios y recibir un reporte estadístico completo y visualizaciones en el Dashboard.
 
-### 3. Soporte Multilingüe 🌍
+### 3. Soporte Multilingüe 
 El modelo ha sido entrenado para interpretar y clasificar textos tanto en **Español** como en **Portugués**, permitiendo escalabilidad regional.
 
-## 📷 Vista Previa  
+##  Vista Previa  
 
-<img width="1920" height="1040" alt="00001_" src="https://github.com/user-attachments/assets/0a50e368-bf10-4842-a586-bc3b1b50152b" />
-https://rominarg.github.io/DemoSentimentAPI/index.html
-<img width="1920" height="1747" alt="00002_" src="https://github.com/user-attachments/assets/16f722df-429f-4990-8e38-ab188d36a16f" />
-https://rominarg.github.io/DemoSentimentAPI/report
+##  Vista Previa y Demo
+
+### 1. Carga de Archivos (Landing Page)
+[![Ver Demo Aquí](https://img.shields.io/badge/Ver_Demo_Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rominarg.github.io/DemoSentimentAPI/index.html)
+
+<img width="100%" alt="Vista Carga" src="https://github.com/user-attachments/assets/0a50e368-bf10-4842-a586-bc3b1b50152b" />
+
+---
+
+### 2. Dashboard de Resultados
+[![Ver Reporte Aquí](https://img.shields.io/badge/Ver_Demo_Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rominarg.github.io/DemoSentimentAPI/report.html)
+
+<img width="100%" alt="Vista Dashboard" src="https://github.com/user-attachments/assets/7ecc639f-e334-4eae-a54a-9b2dd2249178" />
 <img width="1771" height="258" alt="image" src="https://github.com/user-attachments/assets/0255f874-a569-4816-a612-5a8944bbccd0" />
 
