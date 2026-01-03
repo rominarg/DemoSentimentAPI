@@ -75,15 +75,13 @@ El modelo ha sido entrenado para interpretar y clasificar textos tanto en **Espa
 ##  Vista Previa y Demo
 
 ### 1. Carga de Archivos (Landing Page)
-[![Ver Demo Aquí](https://img.shields.io/badge/Ver_Demo_Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rominarg.github.io/DemoSentimentAPI/index.html)
 
 <img width="100%" alt="Vista Carga" src="https://github.com/user-attachments/assets/0a50e368-bf10-4842-a586-bc3b1b50152b" />
 
 ---
 
 ### 2. Dashboard de Resultados
-[![Ver Reporte Aquí](https://img.shields.io/badge/Ver_Demo_Online-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rominarg.github.io/DemoSentimentAPI/report.html)
 
 <img width="100%" alt="Vista Dashboard" src="https://github.com/user-attachments/assets/7ecc639f-e334-4eae-a54a-9b2dd2249178" />
-<img width="1771" height="258" alt="image" src="https://github.com/user-attachments/assets/0255f874-a569-4816-a612-5a8944bbccd0" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/0255f874-a569-4816-a612-5a8944bbccd0" />
 
