@@ -5,9 +5,10 @@ import joblib
 import re
 
 app = FastAPI(title="API Sentimiento")
+# Configurar CORS para que el navegador (Frontend) pueda hablar con la API (Backend)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Permite cualquier origen (útil para desarrollo)
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
